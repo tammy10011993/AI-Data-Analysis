@@ -1,0 +1,29 @@
+---
+title: "Exploratory Data Analysis in R"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# 📊 Introduction
+This project performs **Exploratory Data Analysis (EDA)** using R.
+
+## 🔹 Loading the Dataset
+```{r}
+# Load necessary libraries
+library(tidyverse)
+
+# Load the dataset (Example: mtcars)
+data(mtcars)
+head(mtcars)
+
+#Summary Statistics
+{r}
+summary(mtcars)
+
+#Data Visualization
+
+# Boxplot of mileage (mpg) across different cylinder types
+ggplot(mtcars, aes(x = factor(cyl), y = mpg, fill = factor(cyl))) +
+  geom_boxplot() +
+  labs(title = "Mileage by Cylinder Type", x = "Cylinders", y = "Miles per Gallon")
