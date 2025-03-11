@@ -1,31 +1,32 @@
 # 📊 AI & Data Science Portfolio in R 🚀
 
-Welcome to my AI & Data Science Portfolio! This repository showcases my journey in AI, Machine Learning, and Data Science using **R**.
+## 🌟 Overview
+This repository contains my **AI & Data Science projects** based on my coursework. The projects demonstrate key concepts like **Regression, Clustering, Market Basket Analysis, and Data Visualization** using **R**.
 
-## 📌 Projects Included:
-🔹 **Exploratory Data Analysis (EDA)**
-   - Telecom Churn Analysis
-   - Etsy Sales Data Insights
+## 📂 Projects in This Repository
 
-🔹 **Machine Learning Models**
-   - Linear Regression: Housing Price Prediction
-   - Logistic Regression: Sports Performance
+### 🏠 House Price Prediction (Regression)
+- **Concepts:** Linear Regression, Feature Selection, R-Squared
+- **Code:** [View on GitHub](2-Regression-Models/House-Price-Prediction.Rmd)
+- **Kaggle Notebook:** [🔗 Link](https://www.kaggle.com/YOUR_USERNAME/house-price-prediction)
 
-🔹 **Clustering & Data Mining**
-   - Customer Segmentation with K-Means
-   - Market Basket Analysis (Association Rules)
+### 📊 Exploratory Data Analysis (EDA)
+- **Concepts:** Summary Statistics, Data Cleaning, Outlier Detection
+- **Code:** [View on GitHub](1-Exploratory-Data-Analysis/EDA-Boston-Housing.Rmd)
+- **Kaggle Notebook:** [🔗 Link](https://www.kaggle.com/YOUR_USERNAME/eda-boston-housing)
+- **Tableau Dashboard:** [🔗 Link](https://public.tableau.com/profile/YOUR_USERNAME)
 
-🔹 **Data Visualization**
-   - Tableau & Power BI Dashboards
+### 📉 Customer Segmentation (Clustering)
+- **Concepts:** K-Means Clustering, Customer Profiling
+- **Code:** [View on GitHub](3-Clustering-Analysis/Customer-Segmentation.Rmd)
 
-## 📂 Repository Structure:
+### 🛒 Market Basket Analysis (Association Rules)
+- **Concepts:** Apriori Algorithm, Lift Ratio, Confidence Level
+- **Code:** [View on GitHub](4-Association-Rules-Mining/Market-Basket-Analysis.Rmd)
 
-AI-Data-Analysis-in-R/
-│── Exploratory-Data-Analysis/
-│── Machine-Learning-Models/
-│── Clustering-Association-Rules/
-│── Data-Visualization/
-│── Case-Studies/
+## 📂 Datasets Used
+All datasets used in these projects are stored in the `datasets/` folder.
+
 
 📞 Connect With Me:
 LinkedIn: https://www.linkedin.com/in/tamanna-atiq/
