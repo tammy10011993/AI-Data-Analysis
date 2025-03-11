@@ -42,7 +42,7 @@ AI-Data-Analysis-in-R/
 | Platform        | Link |
 |---------------|------|
 | **GitHub** | [🔗 GitHub Repo](https://github.com/YOUR_GITHUB/AI-Data-Analysis-in-R) |
-| **Kaggle** | [🔗 Kaggle Notebook](https://www.kaggle.com/YOUR_USERNAME/house-price-prediction) |
+| **Kaggle** | [🔗 Kaggle Notebook](https://www.kaggle.com/code/tammy1001/house-price-regression-using-r) |
 | **RPubs** | [🔗 RPubs Report](https://rpubs.com/YOUR_USERNAME/housing_regression) |
 | **LinkedIn** | [🔗 LinkedIn Post](https://www.linkedin.com/in/YOUR_USERNAME) |
 | **Medium** | [🔗 Blog Article](https://medium.com/@YOUR_USERNAME) |
