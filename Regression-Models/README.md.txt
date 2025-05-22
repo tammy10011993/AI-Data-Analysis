@@ -41,7 +41,7 @@ AI-Data-Analysis-in-R/
 ## 🌍 Platforms Where This is Shared
 | Platform        | Link |
 |---------------|------|
-| **GitHub** | [🔗 GitHub Repo](https://github.com/YOUR_GITHUB/AI-Data-Analysis-in-R) |
+| **GitHub** | [🔗 GitHub Repo](https://github.com/tammy10011993/AI-Data-Analysis-in-R) |
 | **Kaggle** | [🔗 Kaggle Notebook](https://www.kaggle.com/code/tammy1001/house-price-regression-using-r) |
 | **RPubs** | [🔗 RPubs Report](https://rpubs.com/YOUR_USERNAME/housing_regression) |
 | **LinkedIn** | [🔗 LinkedIn Post](https://www.linkedin.com/in/YOUR_USERNAME) |
@@ -49,12 +49,7 @@ AI-Data-Analysis-in-R/
 
 ## 📢 Connect with Me
 - **LinkedIn:** [🔗 Your LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- **Kaggle:** [🔗 Your Kaggle](https://www.kaggle.com/YOUR_USERNAME)
-- **GitHub:** [🔗 Your GitHub](https://github.com/YOUR_GITHUB)
+- **Kaggle:** [🔗 Your Kaggle](https://www.kaggle.com/tammy1001)
+- **GitHub:** [🔗 Your GitHub](hhttps://github.com/tammy10011993/)
 
----
-### **📌 Next Steps**
-✅ **Upload this README to GitHub.**  
-✅ **Convert `.Rmd` to `.ipynb` for Kaggle.**  
-✅ **Would you like a draft for your LinkedIn post next?** 🚀
 
